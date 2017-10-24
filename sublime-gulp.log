@@ -1,0 +1,26 @@
+Remember that you can report errors and get help in https://github.com/NicoSantangelo/sublime-gulp
+
+10-22-2017 22:13:
+C:\Users\ilya_jKEeY\AppData\Roaming\Sublime Text 3\Packages\Gulp\write_tasks_to_cache.js:31
+        throw ex;
+        ^
+
+ReferenceError: gulp is not defined
+    at Object.<anonymous> (C:\Users\ilya_jKEeY\Desktop\_start_project_sass\.sublime-gulp-tmp.js:2:23)
+    at Module._compile (module.js:624:30)
+    at Object.Module._extensions..js (module.js:635:10)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Module.require (module.js:568:17)
+    at require (internal/module.js:11:18)
+    at requireGulp (C:\Users\ilya_jKEeY\AppData\Roaming\Sublime Text 3\Packages\Gulp\write_tasks_to_cache.js:28:16)
+    at Object.<anonymous> (C:\Users\ilya_jKEeY\AppData\Roaming\Sublime Text 3\Packages\Gulp\write_tasks_to_cache.js:83:12)
+
+
+10-22-2017 22:27:
+(node:4236) [DEP0013] DeprecationWarning: Calling an asynchronous function without callback is deprecated.
+
+
+10-23-2017 21:41:
+(node:4812) [DEP0013] DeprecationWarning: Calling an asynchronous function without callback is deprecated.
